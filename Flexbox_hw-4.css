@@ -1,0 +1,126 @@
+.body {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+}
+
+.container1 {
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.yellow-container {
+    text-align: center;
+    background-color: yellow;
+}
+
+.green-container {
+    text-align: center;
+    background-color: rgb(52, 255, 52);
+    height: 200px;
+    padding-top: 90px;
+    color: white;
+}
+
+.black-container {
+    background-color: gray;
+    height: 50px;
+    flex-direction: row;
+}
+
+.link {
+    background-color: grey;
+    width: 80px;
+    text-align: center;
+    height: 50px;
+    color: white;
+    padding-top: 0.5px;
+}
+
+.link1 {
+    margin-left: 80px;
+    margin-top: -50.5px;
+}
+
+.link2 {
+    margin-left: 160px;
+    margin-top: -50.5px;
+}
+
+.link3 {
+    margin-left: 230px;
+    margin-top: -50.5px;
+}
+
+.container-a {
+    height: 1000px;
+}
+
+.container-a1 {
+    width: 440px;
+    height: 1000px;
+    background-color: rgb(218, 218, 218);
+    margin-top: -19px;
+    padding-left: 20px;
+
+}
+
+.container-a2 {
+    width: 850px;
+    height: 800px;
+    margin-left: 460px;
+    margin-top: -1000px;
+    padding-left: 20px;
+
+}
+
+.h2-1 {
+    padding-top: 10px;
+
+}
+
+.image1 {
+    height: 270px;
+    width: 420px;
+    background-color: grey;
+}
+
+.boxes {
+    height: 50px;
+    width: 410px;
+    background-color: grey;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+    padding-top: 1px;
+
+}
+
+.images2 {
+    height: 270px;
+    width: 830px;
+    background-color: grey;
+    margin-top: -10px;
+
+}
+
+.p-image {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.title-header {
+    margin-top: 50px;
+}
+
+.footer {
+    height: 100px;
+    background-color: rgb(167, 164, 164);
+    text-align: center;
+    padding-top: 20px;
+}
+
+.final-div {
+    border: solid black 1px;
+}
