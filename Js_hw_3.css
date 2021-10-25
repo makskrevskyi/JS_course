@@ -1,0 +1,149 @@
+.container_of_all_colors {
+  padding-top: 80px;
+}
+
+
+.cube1 {
+  width: 590px;
+  height: 590px;
+  border: 1px solid black;
+  margin-left: 350px;
+}
+
+.cube2 {
+  width: 575px;
+  height: 575px;
+  border: 1px solid green;
+  margin: 5px;
+  padding-left: 4px;
+  padding-top: 5px;
+}
+
+.cube3 {
+  width: 570px;
+  height: 570px;
+  border: 1px solid red;
+}
+
+.square_model {
+  height: 60px;
+  width: 60px;
+  border: solid 2px black;
+  border-radius: 5px;
+}
+
+.square_green {
+  background-color: chartreuse;
+}
+
+
+.square_pink {
+  background-color: pink;
+}
+
+.square_gray {
+  background-color: grey;
+}
+
+.square_red {
+  background-color: red;
+}
+
+.square_purple {
+  background-color: purple;
+}
+
+.green1 {
+  margin-top: 420px;
+  margin-left: 7px;
+}
+
+.green2 {
+  margin-top: -64px;
+  margin-left: 78px;
+}
+
+.green3 {
+  margin-top: -64px;
+  margin-left: 148px;
+}
+
+.green4 {
+  margin-top: -134px;
+  margin-left: 78px;
+}
+
+.pink1 {
+  margin-top: 6px;
+  margin-left: 219px;
+}
+
+.pink2 {
+  margin-top: -135px;
+  margin-left: 219px;
+}
+
+.pink3 {
+  margin-top: -135px;
+  margin-left: 219px;
+}
+
+.pink4 {
+  margin-top: -135px;
+  margin-left: 219px;
+}
+
+.purple1 {
+  margin-top: 150px;
+  margin-left: 360px;
+}
+
+.purple2 {
+  margin-top: -64px;
+  margin-left: 430px;
+}
+
+.purple3 {
+  margin-top: -64px;
+  margin-left: 500px;
+}
+
+.gray1 {
+  margin-top: -278px;
+  margin-left: 148px;
+}
+
+.gray2 {
+  margin-top: -135px;
+  margin-left: 148px;
+}
+
+.gray3 {
+  margin-top: -135px;
+  margin-left: 148px;
+}
+
+.gray4 {
+  margin-top: -64px;
+  margin-left: 77px;
+}
+
+.red1 {
+  margin-top: 149px;
+  margin-left: 289px;
+}
+
+.red2 {
+  margin-top: 7px;
+  margin-left: 289px;
+}
+
+.red3 {
+  margin-top: -135px;
+  margin-left: 359px;
+}
+
+.red4 {
+  margin-top: -65px;
+  margin-left: 429px;
+}
