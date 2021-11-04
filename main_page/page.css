@@ -1,0 +1,38 @@
+html {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+body {
+    background: url(https://wallpapercave.com/wp/ZQXE9wI.jpg) no-repeat;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    text-align: center;
+    border: solid;
+    margin-top: 15px;
+    border-radius: 20px;
+    height: 40px;
+    width: 100px;
+    transition: 0.5s;
+    color: white;
+}
+
+a:hover {
+    height: 50px;
+    width: 110px;
+    cursor: pointer;
+}
