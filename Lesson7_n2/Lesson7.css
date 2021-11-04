@@ -1,0 +1,274 @@
+body {
+    background: url(https://wallpapercave.com/wp/ZQXE9wI.jpg) no-repeat;
+    -moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    background-size: 100%;
+}
+
+.light_blue {
+    border: solid 1px;
+    background-color: lightblue;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    transition: 1s;
+}
+
+.light_blue:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.blue {
+    border: solid 1px;
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 20px;
+    position: absolute;
+    transition: 1s;
+}
+
+.blue:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.gray {
+    border: solid 1px;
+    background-color: gray;
+    height: 200px;
+    width: 200px;
+    margin-top: 40px;
+    margin-left: 40px;
+    position: absolute;
+    transition: 1s;
+}
+
+.gray:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.dark_gray {
+    border: solid 1px;
+    background-color: rgb(75, 75, 75);
+    height: 200px;
+    width: 200px;
+    margin-top: 60px;
+    margin-left: 60px;
+    position: absolute;
+    transition: 1s;
+}
+
+.dark_gray:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.light_gray {
+    border: solid 1px;
+    background-color: lightgrey;
+    height: 200px;
+    width: 200px;
+    margin-top: 80px;
+    margin-left: 80px;
+    position: absolute;
+    transition: 1s;
+}
+
+.light_gray:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.steelblue {
+    border: solid 1px;
+    background-color: steelblue;
+    height: 200px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 100px;
+    position: absolute;
+    transition: 1s;
+}
+
+.steelblue:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.dark_green {
+    border: solid 1px;
+    background-color: darkgreen;
+    height: 200px;
+    width: 200px;
+    margin-top: 120px;
+    margin-left: 120px;
+    position: absolute;
+    transition: 1s;
+}
+
+.dark_green:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.purple {
+    border: solid 1px;
+    background-color: purple;
+    height: 200px;
+    width: 200px;
+    margin-top: 140px;
+    margin-left: 140px;
+    position: absolute;
+    transition: 1s;
+}
+
+.purple:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.yellowgreen {
+    border: solid 1px;
+    background-color: yellowgreen;
+    height: 200px;
+    width: 200px;
+    margin-top: 160px;
+    margin-left: 160px;
+    position: absolute;
+    transition: 1s;
+}
+
+.yellowgreen:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.green {
+    border: solid 1px;
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    margin-top: 180px;
+    margin-left: 180px;
+    position: absolute;
+    transition: 1s;
+}
+
+.green:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.yellow {
+    border: solid 1px;
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 200px;
+    position: absolute;
+    transition: 1s;
+}
+
+.yellow:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.royale_blue {
+    border: solid 1px;
+    background-color: royalblue;
+    height: 200px;
+    width: 200px;
+    margin-top: 220px;
+    margin-left: 220px;
+    position: absolute;
+    transition: 1s;
+}
+
+.royale_blue:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.grey2 {
+    border: solid 1px;
+    background-color: grey;
+    height: 200px;
+    width: 200px;
+    margin-top: 240px;
+    margin-left: 240px;
+    position: absolute;
+    transition: 1s;
+}
+
+.grey2:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.pink {
+    border: solid 1px;
+    background-color: pink;
+    height: 200px;
+    width: 200px;
+    margin-top: 260px;
+    margin-left: 260px;
+    position: absolute;
+    transition: 1s;
+}
+
+.pink:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
+
+.green2 {
+    border: solid 1px;
+    background-color: green;
+    height: 200px;
+    width: 200px;
+    margin-top: 280px;
+    margin-left: 280px;
+    transition: 1s;
+    position: absolute;
+}
+
+.green2:hover {
+    width: 250px;
+    height: 250px;
+    box-shadow: 5px 10px 20px white;
+    z-index: 1;
+}
