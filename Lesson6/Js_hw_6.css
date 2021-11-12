@@ -1,0 +1,75 @@
+.container {
+    border: solid black 5px;
+    height: 450px;
+    width: 450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
+}
+
+.circle_div {
+    border-radius: 160px;
+    border: solid black 5px;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
+}
+
+.mini-cube-model {
+    height: 80px;
+    width: 80px;
+    border: solid black 5px;
+}
+
+.cube1 {
+     margin-left: 75px;
+     margin-top: 75px;
+}
+
+.cube2 {
+    margin-top: 125px;
+    margin-left: 80px;
+}
+
+.cube3 {
+    margin-left: 280px;
+    margin-top: -90px;
+}
+
+.cube4 {
+    margin-left: 280px;
+    margin-top: -305px;
+}
+
+.corner_cube {
+    height: 80px;
+    width: 80px;
+    border-radius: 35px;
+    border: solid black 5px;
+}
+
+.corner_cube1 {
+    margin-left: -35px;
+    margin-top: -205px;  
+}
+
+.corner_cube2 {
+    margin-left: 400px;
+    margin-top: -90px;  
+}
+
+.corner_cube3 {
+    margin-left: -35px;
+    margin-top: 350px;  
+}
+
+.corner_cube4 {
+    margin-left: 400px;
+    margin-top: -90px;  
+}
