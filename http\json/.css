@@ -1,0 +1,14 @@
+.main_div {
+    display: flex;
+    justify-content: center;
+}
+
+.pricing-table_row {
+    border: solid 1px;
+    width: 200px;
+    background-color: rgb(246, 246, 246);
+}
+
+.image {
+    height: 100px;
+}
