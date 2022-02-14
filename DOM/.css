@@ -1,0 +1,33 @@
+body {
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(119,119,119,1) 50%, rgba(205,205,205,1) 100%);
+}
+
+#title {
+    color: rgb(199, 199, 199);
+}
+.main-container {
+    display: flex;
+    justify-content: center;
+}
+
+.post {
+    border: solid 1px;
+    padding: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+.post > h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.post > p {
+    color: rgb(39, 39, 39);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#titleInput , #descInput , #button{
+    opacity: 25%;
+}
